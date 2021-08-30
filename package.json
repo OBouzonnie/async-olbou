@@ -1,0 +1,23 @@
+{
+  "name": "async-olbou",
+  "version": "1.0.0",
+  "description": "exercice de publication du cours nodejs",
+  "main": "async.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OBouzonnie/async-olbou.git"
+  },
+  "keywords": [
+    "exercice",
+    "course"
+  ],
+  "author": "Olivier Bouzonnie",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/OBouzonnie/async-olbou/issues"
+  },
+  "homepage": "https://github.com/OBouzonnie/async-olbou#readme"
+}
